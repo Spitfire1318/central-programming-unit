@@ -1,1 +1,12 @@
-
+{
+"size": "100",
+  "font_size": 30,
+  "modules_present": True,
+  "vpn": False,
+  "children": ("Ann","Billy"),
+  "pets": None,
+  "coding_languages": [
+    {"languages": "Python", ".py"},
+    {"languages": "Perl", ".pl"}
+  ]
+}
